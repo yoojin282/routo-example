@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
           <div className="flex-none">
             <Navigation />
           </div>
-          <div className="flex-1">{children}</div>
+          <div className="flex-1 pt-8">{children}</div>
         </div>
       </body>
     </html>

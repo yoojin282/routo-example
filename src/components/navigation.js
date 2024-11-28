@@ -40,6 +40,16 @@ export default function Navigation({ pathname }) {
             Rectangle
           </Link>
         </div>
+        <div>
+          <Link href="/clusterer" className="block pt-4 pb-4 pl-8 pr-8">
+            Marker Clusterer
+          </Link>
+        </div>
+        <div>
+          <Link href="/drawing" className="block pt-4 pb-4 pl-8 pr-8">
+            Drawing
+          </Link>
+        </div>
       </div>
     </div>
   );
