@@ -6,6 +6,11 @@ export default function Navigation({ pathname }) {
       <h4 className="p-4">Routo</h4>
       <div className="mt-4">
         <div>
+          <Link href="/controls" className="block pt-4 pb-4 pl-8 pr-8">
+            Controls
+          </Link>
+        </div>
+        <div>
           <Link href="/marker" className="block pt-4 pb-4 pl-8 pr-8">
             Marker
           </Link>
