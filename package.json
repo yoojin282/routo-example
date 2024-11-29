@@ -15,7 +15,7 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@yoojin282/routo-map-types": "0.1.3",
+    "@yoojin282/routo-map-types": "0.1.4",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
     "eslint-config-next": "15.0.3",

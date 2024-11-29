@@ -50,6 +50,11 @@ export default function Navigation({ pathname }) {
             Drawing
           </Link>
         </div>
+        <div>
+          <Link href="/traffic" className="block pt-4 pb-4 pl-8 pr-8">
+            Traffic
+          </Link>
+        </div>
       </div>
     </div>
   );
