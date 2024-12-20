@@ -9,17 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@yoojin282/react-routo-map": "0.1.4",
-    "next": "15.0.3",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "@yoojin282/react-routo-map": "0.1.5",
+    "next": "15.1.2",
+    "react": "^19",
+    "react-dom": "^19"
   },
   "devDependencies": {
     "@yoojin282/routo-map-types": "0.1.5",
     "autoprefixer": "^10.4.20",
-    "eslint": "^8",
-    "eslint-config-next": "15.0.3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.2",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.15"
+    "tailwindcss": "^3.4.17"
   }
 }
