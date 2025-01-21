@@ -14,4 +14,6 @@ NEXT_PUBLIC_ROUTO_API_KEY=발급받은API_KEY
 
 ```bash
 npm run dev
+or
+pnpm dev
 ```
