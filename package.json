@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@yoojin282/react-routo-map": "file:..\\react-routo-map",
+    "@yoojin282/react-routo-map": "^0.1.5",
     "next": "15.3.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"

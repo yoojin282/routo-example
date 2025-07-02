@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@yoojin282/react-routo-map':
-        specifier: file:..\react-routo-map
-        version: file:../react-routo-map(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: ^0.1.5
+        version: 0.1.5(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       next:
         specifier: 15.3.4
         version: 15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -599,8 +599,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@yoojin282/react-routo-map@file:../react-routo-map':
-    resolution: {directory: ../react-routo-map, type: directory}
+  '@yoojin282/react-routo-map@0.1.5':
+    resolution: {integrity: sha512-54MqAXtw+ccEGmuB1x7T4nAv0TZoFKpQFPkwtM3go+Uz6iv0C410pa1JI2DfNdwkWCOtvrjxiBZYxGezbnYSAQ==}
     peerDependencies:
       react: ^18 || ^19
       react-dom: ^18 || ^19
@@ -2282,7 +2282,7 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.9.2':
     optional: true
 
-  '@yoojin282/react-routo-map@file:../react-routo-map(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@yoojin282/react-routo-map@0.1.5(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
