@@ -10,10 +10,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ko">
       <body>
-        <div className="container flex">
-          <div className="flex-none">
-            <Navigation />
-          </div>
+        <div className="flex flex-row">
+          <Navigation />
           <div className="flex-1 pt-8">{children}</div>
         </div>
       </body>

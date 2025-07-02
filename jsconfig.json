@@ -2,7 +2,7 @@
   "compilerOptions": {
     "paths": {
       "@/*": ["./src/*"]
-    },
-    "types": ["@yoojin282/routo-map-types"]
+    }
+    // "types": ["@yoojin282/routo-map-types"]
   }
 }
